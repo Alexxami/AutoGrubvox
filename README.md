@@ -21,6 +21,8 @@ Dependencies:
 
     mate-screenshot
 
+    playctl
+
 
 If all dependencies are not met it may not work correctly.
 ## Installation
